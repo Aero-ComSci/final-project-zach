@@ -11,3 +11,7 @@
 
 
 ![image](https://github.com/user-attachments/assets/26a62027-b514-4e91-9b55-390155b39ffa)
+
+
+This program randomly chooses between a few different summer activities.
+it automates removing certain values from a list through inputs
